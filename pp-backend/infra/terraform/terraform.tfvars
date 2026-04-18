@@ -1,0 +1,8 @@
+frontend_origin     = "http://localhost:5173,https://master.d9r76n3j0xze1.amplifyapp.com"
+db_password          = "PantryPal2026!"
+db_username          = "pp_backend_admin"
+db_name              = "pp_backend"
+spoonacular_api_key  = "0d1ff29af6f942b0a6bcb52c0a5a6a56"
+unsplash_access_key  = "1h_HIcTMXZkhJv56PHKSpc7dDiHzNw4MKslPhO9Z6RU"
+aws_region           = "us-east-2"
+bedrock_model_id     = "arn:aws:bedrock:us-east-2:175948132683:inference-profile/us.amazon.nova-2-lite-v1:0"
